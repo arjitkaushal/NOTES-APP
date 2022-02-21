@@ -1,3 +1,4 @@
+//file for work branch
 console.log('connect');
 showNotes();
 //if user adds a note add it to the localStorage
